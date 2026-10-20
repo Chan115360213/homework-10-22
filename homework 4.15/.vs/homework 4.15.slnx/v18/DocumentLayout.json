@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\homework HW2\\homework 4.15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8DF46D-2122-4938-96A3-2BEF57C9CBEB}|homework 4.15\\homework 4.15.vcxproj|C:\\Users\\User\\Desktop\\homework HW2\\homework 4.15\\homework 4.15\\homework 4.15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD8DF46D-2122-4938-96A3-2BEF57C9CBEB}|homework 4.15\\homework 4.15.vcxproj|solutionrelative:homework 4.15\\homework 4.15.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homework 4.15.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework HW2\\homework 4.15\\homework 4.15\\homework 4.15.cpp",
+              "RelativeDocumentMoniker": "homework 4.15\\homework 4.15.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework HW2\\homework 4.15\\homework 4.15\\homework 4.15.cpp",
+              "RelativeToolTip": "homework 4.15\\homework 4.15.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-16T17:04:28.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
